@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/jean/webdev/tuts'
+let g:netrw_dirhist_2='/home/jean/webdev/tuts/derek_banas_rails_intro/readit'
+let g:netrw_dirhist_3='/home/jean/webdev/tuts'
+let g:netrw_dirhist_4='/home/jean/webdev/tuts/derek_banas_rails_intro/readit'
+let g:netrw_dirhist_5='/home/jean/webdev/tuts'
+let g:netrw_dirhist_6='/home/jean/webdev/tuts/derek_banas_rails_intro/readit'
+let g:netrw_dirhist_7='/home/jean/webdev/tuts/derek_banas_rails_intro/readit/app'
+let g:netrw_dirhist_8='/home/jean/webdev/tuts/derek_banas_rails_intro/readit/app/controllers'
